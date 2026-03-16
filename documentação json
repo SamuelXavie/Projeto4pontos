@@ -17,3 +17,10 @@ Resposta da API:
   "unit_price": 1850.00,
   "status": "available"
 }
+
+
+projeto/
+│
+├── database.sql
+├── README.md
+└── product.json
